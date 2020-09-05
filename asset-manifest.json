@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/findrobots/static/css/main.6e1c16b0.chunk.css",
-    "main.js": "/findrobots/static/js/main.42eac6d6.chunk.js",
-    "main.js.map": "/findrobots/static/js/main.42eac6d6.chunk.js.map",
-    "runtime-main.js": "/findrobots/static/js/runtime-main.8ef3a6bb.js",
-    "runtime-main.js.map": "/findrobots/static/js/runtime-main.8ef3a6bb.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/findrobots/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.438da5e4.chunk.js": "/findrobots/static/js/2.438da5e4.chunk.js",
-    "static/js/2.438da5e4.chunk.js.map": "/findrobots/static/js/2.438da5e4.chunk.js.map",
-    "index.html": "/findrobots/index.html",
-    "precache-manifest.53c0696c097d24d42c31fea0d852ad12.js": "/findrobots/precache-manifest.53c0696c097d24d42c31fea0d852ad12.js",
-    "service-worker.js": "/findrobots/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/findrobots/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.6e1c16b0.chunk.css.map": "/findrobots/static/css/main.6e1c16b0.chunk.css.map",
-    "static/js/2.438da5e4.chunk.js.LICENSE.txt": "/findrobots/static/js/2.438da5e4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/findrobots/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/find_robots/static/css/main.db32ad4e.chunk.css",
+    "main.js": "/find_robots/static/js/main.7d8e9131.chunk.js",
+    "main.js.map": "/find_robots/static/js/main.7d8e9131.chunk.js.map",
+    "runtime-main.js": "/find_robots/static/js/runtime-main.319994bc.js",
+    "runtime-main.js.map": "/find_robots/static/js/runtime-main.319994bc.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/find_robots/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.438da5e4.chunk.js": "/find_robots/static/js/2.438da5e4.chunk.js",
+    "static/js/2.438da5e4.chunk.js.map": "/find_robots/static/js/2.438da5e4.chunk.js.map",
+    "index.html": "/find_robots/index.html",
+    "precache-manifest.44f98cfb1bc86435c2ae50fd34468515.js": "/find_robots/precache-manifest.44f98cfb1bc86435c2ae50fd34468515.js",
+    "service-worker.js": "/find_robots/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/find_robots/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.db32ad4e.chunk.css.map": "/find_robots/static/css/main.db32ad4e.chunk.css.map",
+    "static/js/2.438da5e4.chunk.js.LICENSE.txt": "/find_robots/static/js/2.438da5e4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/find_robots/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ef3a6bb.js",
+    "static/js/runtime-main.319994bc.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.438da5e4.chunk.js",
-    "static/css/main.6e1c16b0.chunk.css",
-    "static/js/main.42eac6d6.chunk.js"
+    "static/css/main.db32ad4e.chunk.css",
+    "static/js/main.7d8e9131.chunk.js"
   ]
 }
