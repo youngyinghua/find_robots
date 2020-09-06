@@ -29,7 +29,7 @@ export const requestRobots = (state = initialStateRequest, action = {}) => {
     case REQUEST_ROBOTS_SUCCESS:
       return { ...state, pending: false, robots: action.payload };
     case REQUEST_ROBOTS_FAILED:
-      return { ...state, pending: false, error: action.payload };
+      return { ...state, pending: true, error: action.payload };
     default:
       return state;
   }

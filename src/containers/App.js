@@ -30,21 +30,22 @@ class App extends Component {
     const filterRobots = robots.filter((robot) => {
       return robot.name.toLowerCase().includes(searchfield.toLowerCase());
     });
-    return !pending ? (
+    return pending ? (
+      <h1>Loading</h1>
+    ) : (
       <div className="tc">
         <h1 className="f1">RoboFriends</h1>
         <input
-          className="pa3 ba b-green bg-lightest-blue"
+          aria-label="Search Robots"
+          className="pa3 ba b-green ma3 bg-lightest-blue"
           type="search"
           onChange={onSearchChange}
-          placeholder="search robot"
+          placeholder="search robots"
         />
         <Scroll>
           <CardList robots={filterRobots} />
         </Scroll>
       </div>
-    ) : (
-      <h1>Loading</h1>
     );
   }
 }
